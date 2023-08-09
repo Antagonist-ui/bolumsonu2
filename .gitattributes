@@ -1,2 +1,57 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tartoletarifi.bolumsonucalismasi</title>
+</head>
+<body 
+style="background-color:darksalmon;">
+
+<h3 style="text-align:center;"> ...Tartolet Tarifi... 
+</h3>
+
+<hr>
+<h4 style=" text-align:center;"> <u> Malzemeler </u>
+</h4>
+
+<ul  style="text-align:center;" type="square"> Hamuru için;
+</ul>
+    <li style="text-align:center;"> 150 g tereyağ </li>
+    <li style="text-align:center;"> 1 adet yumurta </li>
+    <li style="text-align:center;"> Yarım su bardağından biraz fazla toz şeker </li>
+    <li style="text-align:center;"> 1 paket vanilya </li>
+    <li style="text-align:center;"> 1 tutam tuz </li>
+    <li style="text-align:center;"> 2 su bardağı + 1 yemek kaşığı un </li>
+</ul>
+ <br>
+
+<ul  style="text-align:center;" type="square"> Kreması için;
+</ul> 
+    <li style="text-align:center;"> 500 ml süt </li>
+    <li style="text-align:center;"> 1 adet yumurta </li>
+    <li style="text-align:center;"> Yarım su bardağından biraz fazla mısır nişastası </li>
+    <li style="text-align:center;"> 1 paket vanilya </li>
+    <li style="text-align:center;"> 1 poşet krem şanti </li>
+
+<br>
+
+<ul  style="text-align:center;" type="square"> Üzeri için;
+</ul> 
+<li style="text-align:center;"> Mevsim meyveleri </li>
+
+<br>
+<hr>
+<br><br><br>
+
+<p style="text-align: center;"> 
+<img src="C:\Users\ibrya\Desktop\meyveli-tartolet-tarifi.jpg" alt=" tartolet" >  <br><br><br>
+<img src="C:\Users\ibrya\Desktop\meyveli-tartolet-tarifi-1.jpg" alt=" tartolet" > <br><br><br>
+<img src="C:\Users\ibrya\Desktop\meyveli-tartolet-tarifi-3.jpg" alt=" tartolet" > <br><br><br>
+<img src="C:\Users\ibrya\Desktop\meyveli-tartolet-tarifi-4.jpg" alt=" tartolet" > <br><br><br>
+<img src="C:\Users\ibrya\Desktop\meyveli-tartolet-tarifi-6.jpg" alt=" tartolet" > <br><br><br>
+<img src="C:\Users\ibrya\Desktop\meyveli-tartolet-tarifi-videolu-1.jpg" alt=" tartolet" >
+</p>
+
+</body>
+</html>
